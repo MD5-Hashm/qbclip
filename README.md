@@ -9,6 +9,8 @@ Enable qbittorrent webui like so
 
 ![image](https://user-images.githubusercontent.com/47696465/148408354-e44898fa-8659-49ef-ab4f-5f1c28b02aca.png)
 
+With pip install "python-qbittorrent"
+
 Then edit qb.py to include your local ip and the port you set earlier. Drag qb.py to C:\ and make a folder named "qbclip"
 
 In this folder make a file called "conf.txt" and edit it to include the path you would like your torrents to download too...
